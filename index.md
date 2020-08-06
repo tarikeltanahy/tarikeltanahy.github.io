@@ -10,3 +10,5 @@ Primarily made using Adobe Illustrator and occasionally GIMP.
 | --- | --- |
 | Hello | Goodbye |
 | Mow | Mowmow |
+
+![Troye Illustration](images/troye.png)
