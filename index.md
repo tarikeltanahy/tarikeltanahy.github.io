@@ -2,9 +2,9 @@
 
 Welcome to my design page.
 
-### Markdown
+### Programs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Primarily made using Adobe Illustrator and occasionally GIMP.
 
 ```markdown
 Syntax highlighted code block
