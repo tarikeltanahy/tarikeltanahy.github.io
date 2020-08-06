@@ -6,6 +6,12 @@ Welcome to my design page.
 
 Primarily made using Adobe Illustrator and occasionally GIMP.
 
+| Making a table | To see how it works |
+| --- | --- |
+| Hello | Goodbye |
+| Mow | Mowmow |
+
+
 ```markdown
 Syntax highlighted code block
 
