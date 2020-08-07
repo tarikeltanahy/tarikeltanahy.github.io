@@ -7,6 +7,9 @@ My instagram is [@tarikeltanahy](https://www.instagram.com/tarikeltanahy).
 
 Primarily made using **Adobe Illustrator** and occasionally **GIMP**.
 
+<img src="images/troye.png" alt="troye"
+	title="A cute kitten" width="150" height="100" />
+  
 | ![Troye Illustration](images/troye.png)width=200px |
 | ![Tyler Text](images/tylertext.png) |
 
