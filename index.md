@@ -1,7 +1,7 @@
 ## Tarik Eltanahy's Portfolio
 
 Welcome to my design page.
-My instagram is [@tarikeltanahy](instagram.com/tarikeltanahy).
+My instagram is [@tarikeltanahy](https://www.instagram.com/tarikeltanahy).
 
 ### Programs
 
