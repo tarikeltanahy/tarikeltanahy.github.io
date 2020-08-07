@@ -7,6 +7,6 @@ My instagram is [@tarikeltanahy](https://www.instagram.com/tarikeltanahy).
 
 Primarily made using **Adobe Illustrator** and occasionally **GIMP**.
   
-| ![Troye Illustration](images/troye.png) |
-| ![Tyler Text](images/tylertext.png) |
+![Troye Illustration](images/troye.png)
+![Tyler Text](images/tylertext.png)
 
