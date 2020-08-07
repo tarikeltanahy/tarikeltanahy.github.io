@@ -11,6 +11,8 @@ Primarily made using **Adobe Illustrator** and occasionally **GIMP**.
 	title="Troye Sivan" width="410" height="540" />
 	
 #### Troye Sivan drawn in Adobe Illustrator
-  
+
+---
+
 ![Tyler Text](images/tylertext.png)
 
