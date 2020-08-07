@@ -12,3 +12,4 @@ Primarily made using Adobe Illustrator and occasionally GIMP.
 | Mow | Mowmow |
 
 ![Troye Illustration](images/troye.png)
+![Tyler Text](images/tylertext.png)
